@@ -1,0 +1,11 @@
+.class:hover {
+  background-color: #d86868;
+}
+.class:focus {
+  background-color: #68afd8;
+}
+
+.element::before {
+  content: 'a';
+  padding-left: 200px;
+}
